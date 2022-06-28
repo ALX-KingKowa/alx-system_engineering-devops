@@ -29,3 +29,5 @@
     6-third_line           Write a script that displays the third line of the file iacta
  
     7-file                 Write a shell script that creates a file
+
+    8-cwd_state            Write a shell script that appends the output of a command to a file
