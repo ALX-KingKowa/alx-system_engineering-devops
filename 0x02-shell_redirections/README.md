@@ -43,4 +43,5 @@
     15-countthatword       Display the number of lines that contain a word pattern in a file
     16-whatsnext           Display lines containing a pattern and 3 lines after them 
     17-hidethisword        Display all lines in a file that do not contain a particular pattern
+    18-letteronly          Display all lines of a file starting with a letter
 
