@@ -37,13 +37,10 @@
     10-no_more_js          Write a script that deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders
 
     11-directories         Write a script that counts the number of directories in the current directory
-
     12-newest_files        Create a script that displays the 10 newest files in the current directory
-
     13-unique              Create a script that takes a list of words as input and prints only words that appear exactly once
- 
     14-findthatword        Display lines containing a word pattern from a file
-
     15-countthatword       Display the number of lines that contain a word pattern in a file
-
     16-whatsnext           Display lines containing a pattern and 3 lines after them 
+    17-hidethisword        Display all lines in a file that do not contain a particular pattern
+
