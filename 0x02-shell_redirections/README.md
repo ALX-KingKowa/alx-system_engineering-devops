@@ -45,4 +45,5 @@
     14-findthatword        Display lines containing a word pattern from a file
 
     15-countthatword       Display the number of lines that contain a word pattern in a file
- 
+
+    16-whatsnext           Display lines containing a pattern and 3 lines after them 
