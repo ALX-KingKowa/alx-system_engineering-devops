@@ -42,4 +42,7 @@
 
     13-unique              Create a script that takes a list of words as input and prints only words that appear exactly once
  
-    14-findthatword        Display lines containing a word pattern from a file 
+    14-findthatword        Display lines containing a word pattern from a file
+
+    15-countthatword       Display the number of lines that contain a word pattern in a file
+ 
