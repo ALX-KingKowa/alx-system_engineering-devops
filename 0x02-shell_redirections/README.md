@@ -46,3 +46,4 @@
     21-reverse             Write a script that reverse its iput
     22-users_and_homes     Write a script that displays all users and their home directories, sorted by users
     100-empty_casks        Write a script a command that finds all empty files and directories in the current directory and all subdirectories
+    101-gifs               Write a script that lists all the files with a .gif extension in the current directory and all its sub-directories
