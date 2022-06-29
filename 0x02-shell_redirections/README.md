@@ -45,4 +45,5 @@
     18-letteronly          Display all lines of a file starting with a letter
     19-AZ                  Replace all characters A and c from input to Z and e respectively
     20-hiago               Create a script that removes all the letters c and C from input
+    21-reverse             Write a script that reverse its iput
 
