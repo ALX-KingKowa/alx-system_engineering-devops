@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 #Script that displays a piece of text 10 times using a while loop
 y=1
-while [$y -le 10]
+while [ $y -le 10 ]
 do
   echo "Best School"
   y=$((y+1))
