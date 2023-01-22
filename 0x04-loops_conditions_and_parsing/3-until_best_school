@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 #Script that displays a piece of text 10 times using until loop
 y=0
-until [ $y -le 9 ]
+until [ $y -gt 9 ]
 do
   echo "Best School"
   y=$((y+1))
