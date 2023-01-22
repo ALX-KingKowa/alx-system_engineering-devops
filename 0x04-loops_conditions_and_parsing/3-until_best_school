@@ -4,5 +4,5 @@ y=0
 until [ $y -le 9 ]
 do
   echo "Best School"
-  ((y++))
+  y=$((y+1))
 done
